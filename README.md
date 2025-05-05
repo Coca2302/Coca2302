@@ -2,7 +2,7 @@
 
 <p align="center">
   🔬 Passionate about Machine Learning, Bioinformatics and Deep Learning <br>
-  🌱 Currently learning CNNs, data preprocessing and PyTorch <br>
+  🌱 Currently learning Computer vision, data preprocessing and PyTorch <br>
   🚀 Open to collaborations on AI for biology and protein classification projects <br>
   💡 Love exploring how AI can support science and healthcare <br>
 </p>
@@ -10,10 +10,9 @@
 ---
 
 ### 🧠 My Interests:
-- 🧬 Protein classification using neural networks
 - 📊 Machine Learning, Deep Learning, and Data Science
 - ⚙️ Python, PyTorch, Scikit-learn, and Jupyter Notebooks
-- 🧪 Applying AI to real-world bioinformatics problems
+- 🧪 Applying AI to real-world problems
 
 ---
 
@@ -22,7 +21,7 @@
 🔗 [**Protein Classification**](https://github.com/Coca2302/protein_classification)  
 > A Convolutional Neural Network based on LeNet to classify protein sequences.  
 > - Implemented data preprocessing for amino acid sequences  
-> - Built CNN with pooling and dense layers  
+> - Built CNN base on LeNet achitecture
 > - Achieved accurate predictions on sequence datasets  
 
 ---
