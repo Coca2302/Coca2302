@@ -1,255 +1,122 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hoang Viet (Coca2302) - GitHub Profile</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-            background: #0d1117;
-            color: #c9d1d9;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-            display: flex;
-            justify-content: center;
-        }
-        .container {
-            max-width: 1200px;
-            display: flex;
-            gap: 20px;
-        }
-        .sidebar {
-            width: 300px;
-            text-align: center;
-        }
-        .profile-pic-placeholder {
-            width: 260px;
-            height: 260px;
-            background: #161b22;
-            border-radius: 50%;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.9em;
-            color: #8b949e;
-            border: 1px solid #30363d;
-        }
-        .username {
-            font-size: 1.5em;
-            font-weight: 600;
-            color: #c9d1d9;
-            margin: 15px 0 5px;
-        }
-        .handle {
-            font-size: 1em;
-            color: #8b949e;
-            margin-bottom: 15px;
-        }
-        .main-content {
-            flex: 1;
-            background: #161b22;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-        }
-        h1 img {
-            max-width: 100%;
-            height: auto;
-        }
-        .intro {
-            font-size: 1em;
-            color: #c9d1d9;
-            margin: 20px 0;
-        }
-        .intro p {
-            margin: 8px 0;
-            transition: color 0.3s ease;
-        }
-        .intro p:hover {
-            color: #58a6ff;
-        }
-        .section-title {
-            font-size: 1.4em;
-            color: #f0f6fc;
-            margin: 30px 0 15px;
-            position: relative;
-        }
-        .section-title::after {
-            content: '';
-            width: 40px;
-            height: 2px;
-            background: #58a6ff;
-            position: absolute;
-            bottom: -5px;
-            left: 0;
-        }
-        .interests {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 20px 0;
-        }
-        .interest-item {
-            background: #21262d;
-            padding: 8px 15px;
-            border-radius: 15px;
-            font-size: 0.9em;
-            color: #c9d1d9;
-            transition: background 0.3s ease, color 0.3s ease;
-        }
-        .interest-item:hover {
-            background: #58a6ff;
-            color: #0d1117;
-        }
-        .project-card {
-            background: #0d1117;
-            border-radius: 6px;
-            padding: 15px;
-            margin: 20px 0;
-            text-align: left;
-            border: 1px solid #30363d;
-            transition: border-color 0.3s ease;
-        }
-        .project-card:hover {
-            border-color: #58a6ff;
-        }
-        .project-card a {
-            color: #58a6ff;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 1.2em;
-        }
-        .project-card a:hover {
-            text-decoration: underline;
-        }
-        .project-card p {
-            color: #c9d1d9;
-            margin: 10px 0;
-        }
-        .project-card ul {
-            list-style: none;
-            padding: 0;
-            margin: 10px 0;
-        }
-        .project-card ul li {
-            margin: 8px 0;
-            position: relative;
-            padding-left: 20px;
-            color: #c9d1d9;
-        }
-        .project-card ul li::before {
-            content: '➔';
-            position: absolute;
-            left: 0;
-            color: #58a6ff;
-        }
-        .stats img {
-            max-width: 100%;
-            height: auto;
-        }
-        .connect {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin: 20px 0;
-        }
-        .connect a {
-            color: #c9d1d9;
-            text-decoration: none;
-            font-size: 0.9em;
-            padding: 8px 15px;
-            border: 1px solid #30363d;
-            border-radius: 15px;
-            transition: border-color 0.3s ease, color 0.3s ease;
-        }
-        .connect a:hover {
-            border-color: #58a6ff;
-            color: #58a6ff;
-        }
-        .connect .disabled {
-            border-color: #30363d;
-            color: #8b949e;
-            cursor: not-allowed;
-        }
-        .connect .disabled:hover {
-            border-color: #30363d;
-            color: #8b949e;
-        }
-        hr {
-            border: 0;
-            height: 1px;
-            background: #30363d;
-            margin: 20px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="sidebar">
-            <div class="profile-pic-placeholder">
-                Contribution Graph Placeholder
-            </div>
-            <div class="username">Hoang Viet</div>
-            <div class="handle">Coca2302 • he/him</div>
-        </div>
-        <div class="main-content">
-            <h1>
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000¢er=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Hoang+Viet+(Coca2302)" alt="Typing SVG" />
-            </h1>
+# 👋 Xin chào, tôi là [Tên của bạn](https://yourwebsite.com)
 
-            <div class="intro">
-                <p>🔬 Passionate about Machine Learning, Bioinformatics, and Deep Learning</p>
-                <p>🌱 Currently learning Computer Vision, Data Preprocessing, and PyTorch</p>
-                <p>🚀 Open to collaborations on AI for biology and protein classification projects</p>
-                <p>💡 Love exploring how AI can support science and healthcare</p>
-            </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Passionate-red?style=for-the-badge" alt="Developer Badge"/>
+  <img src="https://img.shields.io/badge/Code-MadeWithLove-green?style=for-the-badge" alt="Code Badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-blue?style=for-the-badge" alt="Open Source Badge"/>
+</div>
 
-            <hr>
+<div align="center">
+  <img src="/api/placeholder/800/250" alt="Banner Image" width="100%"/>
+</div>
 
-            <h2 class="section-title">🧠 My Interests</h2>
-            <div class="interests">
-                <span class="interest-item">📊 Machine Learning</span>
-                <span class="interest-item">📈 Deep Learning</span>
-                <span class="interest-item">🧮 Data Science</span>
-                <span class="interest-item">⚙️ Python</span>
-                <span class="interest-item">🔥 PyTorch</span>
-                <span class="interest-item">🛠️ Scikit-learn</span>
-                <span class="interest-item">📓 Jupyter Notebooks</span>
-                <span class="interest-item">🧪 AI for Real-World Problems</span>
-            </div>
+## 🚀 Về tôi
 
-            <hr>
+- 💼 Hiện tại tôi đang làm việc tại [Công ty/Tổ chức]
+- 🎓 Tôi tốt nghiệp ngành [Ngành học] tại [Trường]
+- 🌱 Tôi đang học [Công nghệ/Ngôn ngữ mới]
+- 👯 Tôi muốn cộng tác trên các dự án về [Lĩnh vực quan tâm]
+- 🤔 Tôi đang tìm kiếm cơ hội trong [Lĩnh vực/Vai trò]
+- 💬 Hãy hỏi tôi về [Chuyên môn của bạn]
+- ⚡ Thông tin thú vị: [Điều gì đó thú vị về bạn]
 
-            <h2 class="section-title">📌 Highlight Project</h2>
-            <div class="project-card">
-                <a href="https://github.com/Coca2302/protein_classification">Protein Classification</a>
-                <p>A Convolutional Neural Network (CNN) based on LeNet to classify protein sequences.</p>
-                <ul>
-                    <li>Implemented data preprocessing for amino acid sequences</li>
-                    <li>Built CNN based on LeNet architecture</li>
-                    <li>Achieved accurate predictions on sequence datasets</li>
-                </ul>
-            </div>
+<details>
+<summary>🔍 Xem thêm về tôi</summary>
+<br>
 
-            <hr>
+Tôi là một [vai trò của bạn] với hơn [X năm] kinh nghiệm trong [lĩnh vực]. Tôi đam mê [mô tả sở thích và đam mê liên quan đến công việc]. Mục tiêu của tôi là [mục tiêu nghề nghiệp hoặc cá nhân].
 
-            <h2 class="section-title">📈 GitHub Stats</h2>
-            <div class="stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=Coca2302&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
-            </div>
+Ngoài công việc, tôi còn yêu thích [sở thích ngoài công việc] và tham gia vào [các hoạt động cộng đồng nếu có].
 
-            <hr>
+</details>
 
-            <h2 class="section-title">📫 Connect with Me</h2>
-            <div class="connect">
-                <a href="mailto:nguyenhoangviet23022004@gmail.com">📧 Email</a>
-                <a href="#" class="disabled">🧪 Medium (Coming Soon)</a>
-                <a href="#" class="disabled">💬 Telegram (Coming Soon)</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+## 🛠️ Ngôn ngữ và công cụ
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  
+</div>
+
+## 📊 Thống kê GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+## 🏆 Dự án nổi bật
+
+<div align="center">
+  
+| Dự án | Mô tả |
+|-------|--------|
+| [Dự án 1](https://github.com/yourusername/project1) | Mô tả ngắn gọn về dự án 1 và công nghệ sử dụng |
+| [Dự án 2](https://github.com/yourusername/project2) | Mô tả ngắn gọn về dự án 2 và công nghệ sử dụng |
+| [Dự án 3](https://github.com/yourusername/project3) | Mô tả ngắn gọn về dự án 3 và công nghệ sử dụng |
+
+</div>
+
+## 📈 Hoạt động đóng góp
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  
+  ```text
+  🌞 Thời gian làm việc
+  
+  🌅 Sáng    █████████░░░░░  45.32%
+  🌆 Chiều   ██████░░░░░░░░  30.25%
+  🌃 Tối     ███░░░░░░░░░░░  15.43%
+  🌙 Đêm     ██░░░░░░░░░░░░  10.00%
+  ```
+  
+</div>
+
+## 📫 Liên hệ với tôi
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+  
+</div>
+
+## 🌟 Người theo dõi
+
+<div align="center">
+  <img src="/api/placeholder/500/100" alt="Followers Image"/>
+</div>
+
+---
+
+<div align="center">
+  
+  *"Trích dẫn hoặc châm ngôn yêu thích của bạn"*
+  
+  ![Lượt xem hồ sơ](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Lượt+xem+hồ+sơ)
+  
+</div>
+
+<!--
+Tips để cá nhân hóa README của bạn:
+1. Thay `yourusername` bằng tên người dùng GitHub của bạn
+2. Thay đường dẫn placeholder bằng hình ảnh thật của bạn
+3. Cập nhật các biểu tượng công nghệ cho phù hợp với kỹ năng của bạn
+4. Thêm chi tiết về các dự án thực tế của bạn
+5. Thay thế thông tin liên hệ bằng thông tin của bạn
+-->
