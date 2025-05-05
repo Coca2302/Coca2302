@@ -1,122 +1,158 @@
-# 👋 Xin chào, tôi là [Tên của bạn](https://yourwebsite.com)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Hoang Viet (Astrq23)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-Passionate-red?style=for-the-badge" alt="Developer Badge"/>
-  <img src="https://img.shields.io/badge/Code-MadeWithLove-green?style=for-the-badge" alt="Code Badge"/>
-  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-blue?style=for-the-badge" alt="Open Source Badge"/>
+  
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D650&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" /></a>
+
+  ![Profile Banner](/api/placeholder/1000/250)
 </div>
 
-<div align="center">
-  <img src="/api/placeholder/800/250" alt="Banner Image" width="100%"/>
-</div>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-## 🚀 Về tôi
-
-- 💼 Hiện tại tôi đang làm việc tại [Công ty/Tổ chức]
-- 🎓 Tôi tốt nghiệp ngành [Ngành học] tại [Trường]
-- 🌱 Tôi đang học [Công nghệ/Ngôn ngữ mới]
-- 👯 Tôi muốn cộng tác trên các dự án về [Lĩnh vực quan tâm]
-- 🤔 Tôi đang tìm kiếm cơ hội trong [Lĩnh vực/Vai trò]
-- 💬 Hãy hỏi tôi về [Chuyên môn của bạn]
-- ⚡ Thông tin thú vị: [Điều gì đó thú vị về bạn]
+```javascript
+const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  workAt: "Company/Organization Name",
+  education: "Your Degree",
+  location: "Your City, Country",
+  languages: ["English", "Your Language"],
+  codeIn: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
+  currentlyLearning: ["AWS", "Blockchain"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  funFact: "I code with coffee running through my veins"
+};
+```
 
 <details>
-<summary>🔍 Xem thêm về tôi</summary>
+<summary>🔍 More about me</summary>
 <br>
 
-Tôi là một [vai trò của bạn] với hơn [X năm] kinh nghiệm trong [lĩnh vực]. Tôi đam mê [mô tả sở thích và đam mê liên quan đến công việc]. Mục tiêu của tôi là [mục tiêu nghề nghiệp hoặc cá nhân].
+I'm a passionate developer with over [X years] of experience in [your field]. I love solving complex problems and turning ideas into reality through elegant code. My journey in tech started when [brief story about how you started coding].
 
-Ngoài công việc, tôi còn yêu thích [sở thích ngoài công việc] và tham gia vào [các hoạt động cộng đồng nếu có].
+When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 
 </details>
 
-## 🛠️ Ngôn ngữ và công cụ
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Stack
 
 <div align="center">
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
 
-## 📊 Thống kê GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true"/>
 </div>
 
-## 🏆 Dự án nổi bật
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
   
-| Dự án | Mô tả |
-|-------|--------|
-| [Dự án 1](https://github.com/yourusername/project1) | Mô tả ngắn gọn về dự án 1 và công nghệ sử dụng |
-| [Dự án 2](https://github.com/yourusername/project2) | Mô tả ngắn gọn về dự án 2 và công nghệ sử dụng |
-| [Dự án 3](https://github.com/yourusername/project3) | Mô tả ngắn gọn về dự án 3 và công nghệ sử dụng |
-
-</div>
-
-## 📈 Hoạt động đóng góp
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  
-  ```text
-  🌞 Thời gian làm việc
-  
-  🌅 Sáng    █████████░░░░░  45.32%
-  🌆 Chiều   ██████░░░░░░░░  30.25%
-  🌃 Tối     ███░░░░░░░░░░░  15.43%
-  🌙 Đêm     ██░░░░░░░░░░░░  10.00%
-  ```
+  <!-- Project Card Format -->
+  <a href="https://github.com/yourusername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&border_radius=8&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&border_radius=8&hide_border=true" />
+  </a>
   
 </div>
 
-## 📫 Liên hệ với tôi
+## <img src="https://media.giphy.com/media/gRYTjQAs00LOvFy4s5/giphy.gif" width="30"> GitHub Streak
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=8A8AFF" alt="GitHub Streak" />
+</div>
+
+## <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30"> Weekly Coding Stats
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+<!--START_SECTION:waka-->
+```text
+JavaScript   ███████████▒░░░░░░░░   45.23 % 
+TypeScript   ████████▓░░░░░░░░░░░   30.14 % 
+Python       ████▓░░░░░░░░░░░░░░░   15.03 % 
+HTML         ██▒░░░░░░░░░░░░░░░░░   07.85 % 
+CSS          ▓░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
   
 </div>
 
-## 🌟 Người theo dõi
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> GitHub Activity Graph
 
 <div align="center">
-  <img src="/api/placeholder/500/100" alt="Followers Image"/>
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+</div>
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> Spotify Playing
+
+<div align="center">
+  
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1)
+  
 </div>
 
 ---
 
 <div align="center">
   
-  *"Trích dẫn hoặc châm ngôn yêu thích của bạn"*
-  
-  ![Lượt xem hồ sơ](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Lượt+xem+hồ+sơ)
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
+
+  <p>*"Your favorite quote here"*</p>
+
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" title="GitHub-Status"/> 
+  <i>Happy Coding!</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 </div>
 
 <!--
-Tips để cá nhân hóa README của bạn:
-1. Thay `yourusername` bằng tên người dùng GitHub của bạn
-2. Thay đường dẫn placeholder bằng hình ảnh thật của bạn
-3. Cập nhật các biểu tượng công nghệ cho phù hợp với kỹ năng của bạn
-4. Thêm chi tiết về các dự án thực tế của bạn
-5. Thay thế thông tin liên hệ bằng thông tin của bạn
+Tips for customizing your README:
+1. Replace 'yourusername' with your actual GitHub username
+2. Replace placeholder images with your actual images
+3. Update the tech stack badges to match your skills
+4. Add details about your actual projects
+5. Replace contact info with your real information
+6. To enable the WakaTime stats, follow these instructions: https://github.com/anmol098/waka-readme-stats
+7. To enable the GitHub activity graph, set up this action: https://github.com/Ashutosh00710/github-readme-activity-graph
 -->
