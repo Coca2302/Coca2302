@@ -5,25 +5,21 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D650&center=true&vCenter=true&width=435&lines=AI+Engineer;Computer+Vision;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
-  ![Profile Banner](https://i.pinimg.com/736x/f7/40/36/f74036cefe0a6e6829d3b72fc71c466d.jpg)
+  ![Profile Banner]()
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```javascript
-const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  workAt: "Company/Organization Name",
-  education: "Your Degree",
-  location: "Your City, Country",
-  languages: ["English", "Your Language"],
-  codeIn: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
-  currentlyLearning: ["AWS", "Blockchain"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
-  funFact: "I code with coffee running through my veins"
-};
-```
+👨‍💻 About Me
+Name: Hoang Viet Nguyen
+Role: Computer Science Student
+Work At: HUS-VNU
+Education: Undergraduate
+Location: Ha Noi, Viet Nam
+Languages: English
+Code In: Java, Python
+Currently Learning: Pytorch, machine learning, deep learning, computer vision, NLP
+
 
 <details>
 <summary>🔍 More about me</summary>
