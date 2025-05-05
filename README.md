@@ -61,7 +61,7 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 <div align="center">
   
   <!-- Project Card Format -->
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/Coca2302/protein_classification">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/project2">
@@ -73,24 +73,10 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 ## <img src="https://media.giphy.com/media/gRYTjQAs00LOvFy4s5/giphy.gif" width="30"> GitHub Streak
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=8A8AFF" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Coca2302&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=8A8AFF" alt="GitHub Streak" />
 </div>
 
-## <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30"> Weekly Coding Stats
 
-<div align="center">
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   ███████████▒░░░░░░░░   45.23 % 
-TypeScript   ████████▓░░░░░░░░░░░   30.14 % 
-Python       ████▓░░░░░░░░░░░░░░░   15.03 % 
-HTML         ██▒░░░░░░░░░░░░░░░░░   07.85 % 
-CSS          ▓░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
-<!--END_SECTION:waka-->
-
-</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
 
@@ -117,16 +103,10 @@ CSS          ▓░░░░░░░░░░░░░░░░░░░   01.7
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> GitHub Activity Graph
 
 <div align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Coca2302&theme=tokyo-night&hide_border=true" />
 </div>
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> Spotify Playing
 
-<div align="center">
-  
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1)
-  
-</div>
 
 ---
 
@@ -134,20 +114,11 @@ CSS          ▓░░░░░░░░░░░░░░░░░░░   01.7
   
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
 
-  <p>*"Your favorite quote here"*</p>
+  <p>*"Every Second Counts"*</p>
 
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" title="GitHub-Status"/> 
   <i>Happy Coding!</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 </div>
 
-<!--
-Tips for customizing your README:
-1. Replace 'yourusername' with your actual GitHub username
-2. Replace placeholder images with your actual images
-3. Update the tech stack badges to match your skills
-4. Add details about your actual projects
-5. Replace contact info with your real information
-6. To enable the WakaTime stats, follow these instructions: https://github.com/anmol098/waka-readme-stats
-7. To enable the GitHub activity graph, set up this action: https://github.com/Ashutosh00710/github-readme-activity-graph
--->
+
