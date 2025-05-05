@@ -11,14 +11,14 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 👨‍💻 About Me
-Name: Hoang Viet Nguyen
-Role: Computer Science Student
-Work At: HUS-VNU
-Education: Undergraduate
-Location: Ha Noi, Viet Nam
-Languages: English
-Code In: Java, Python
-Currently Learning: Pytorch, machine learning, deep learning, computer vision, NLP
+--Name: Hoang Viet Nguyen
+--Role: Computer Science Student
+--Work At: HUS-VNU
+--Education: Undergraduate
+--Location: Ha Noi, Viet Nam
+--Languages: English
+--Code In: Java, Python
+--Currently Learning: Pytorch, machine learning, deep learning, computer vision, NLP
 
 
 <details>
