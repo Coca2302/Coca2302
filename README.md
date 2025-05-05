@@ -8,17 +8,20 @@
   ![Profile Banner]()
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"> About Me
 
-👨‍💻 About Me
---Name: Hoang Viet Nguyen
---Role: Computer Science Student
---Work At: HUS-VNU
---Education: Undergraduate
---Location: Ha Noi, Viet Nam
---Languages: English
---Code In: Java, Python
---Currently Learning: Pytorch, machine learning, deep learning, computer vision, NLP
+👨‍💻 **About Me**
+
+| 🔹 Thông tin        | 🔹 Chi tiết                                  |
+|--------------------|---------------------------------------------|
+| **Name**           | Hoang Viet Nguyen                            |
+| **Role**           | Computer Science Student                     |
+| **Work At**        | HUS-VNU                                     |
+| **Education**      | Undergraduate                               |
+| **Location**       | Ha Noi, Viet Nam                            |
+| **Languages**      | English                                     |
+| **Code In**        | Java, Python                                |
+| **Currently Learning** | Pytorch, machine learning, deep learning, computer vision, NLP |
 
 
 <details>
