@@ -112,13 +112,12 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Coca2302&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
 
   <p>*"Every Second Counts"*</p>
 
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" title="GitHub-Status"/> 
-  <i>Happy Coding!</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
+
 </div>
 
 
