@@ -41,7 +41,7 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
   
   <!-- Project Card Format -->
   <a href="https://github.com/Coca2302/protein_classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=project2&theme=tokyonight&border_radius=8&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=protein_classification&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&border_radius=8&hide_border=true" />
