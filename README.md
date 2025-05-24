@@ -29,22 +29,11 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 
 <div align="center">
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true"/>
-</div>
 
 ## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Featured Projects
 
@@ -52,7 +41,7 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
   
   <!-- Project Card Format -->
   <a href="https://github.com/Coca2302/protein_classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&border_radius=8&hide_border=true" />
+    <img align="center" src="https://github.com/Coca2302/protein_classification" />
   </a>
   <a href="https://github.com/yourusername/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&border_radius=8&hide_border=true" />
