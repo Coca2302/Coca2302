@@ -49,14 +49,6 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
   
 </div>
 
-## <img src="https://media.giphy.com/media/gRYTjQAs00LOvFy4s5/giphy.gif" width="30"> GitHub Streak
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Coca2302&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=8A8AFF" alt="GitHub Streak" />
-</div>
-
-
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
 
 <div align="center">
@@ -77,12 +69,6 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   
-</div>
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> GitHub Activity Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Coca2302&theme=tokyo-night&hide_border=true" />
 </div>
 
 
