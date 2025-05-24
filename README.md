@@ -12,16 +12,7 @@
 
 👨‍💻 **About Me**
 
-| 🔹 Thông tin        | 🔹 Chi tiết                                  |
-|--------------------|---------------------------------------------|
-| **Name**           | Hoang Viet Nguyen                            |
-| **Role**           | Computer Science Student                     |
-| **Work At**        | HUS-VNU                                     |
-| **Education**      | Undergraduate                               |
-| **Location**       | Ha Noi, Viet Nam                            |
-| **Languages**      | English                                     |
-| **Code In**        | Java, Python                                |
-| **Currently Learning** | Pytorch, machine learning, deep learning, computer vision, NLP |
+
 
 
 <details>
