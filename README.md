@@ -49,6 +49,9 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
   <a href="https://github.com/Coca2302/DeblurGAN">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=DeblurGAN&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
+  <a href="https://github.com/Coca2302/BlackjackGameCLI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=BlackjackGameCLI&theme=tokyonight&border_radius=8&hide_border=true" />
+  </a>
   
 </div>
 
