@@ -44,8 +44,7 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=protein_classification&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/Multi-label-classification-on-chest-X-ray-images-with-GATN-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=Multi-label-classification-on-chest-X-ray-images-with-GATN-    
-     &theme=tokyonight&border_radius=8&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=Multi-label-classification-on-chest-X-ray-images-with-GATN-&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
   <a href="https://github.com/Coca2302/DeblurGAN">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=DeblurGAN&theme=tokyonight&border_radius=8&hide_border=true" />
