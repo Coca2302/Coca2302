@@ -19,9 +19,7 @@
 <summary>🔍 More about me</summary>
 <br>
 
-I'm a passionate developer with over [X years] of experience in [your field]. I love solving complex problems and turning ideas into reality through elegant code. My journey in tech started when [brief story about how you started coding].
-
-When I'm not coding, you'll find me [your hobbies/interests outside of coding].
+I'm a passionate developer with over -2 years of experience in Computer vision. 
 
 </details>
 
