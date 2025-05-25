@@ -29,7 +29,6 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   <!-- Existing Python badge -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
