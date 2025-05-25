@@ -59,21 +59,15 @@ When I'm not coding, you'll find me [your hobbies/interests outside of coding].
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/hoangviet23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  
+ 
+  <a href="mailto:nguyenhoangviet23022004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  
   
 </div>
 
