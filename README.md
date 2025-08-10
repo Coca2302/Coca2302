@@ -19,7 +19,7 @@
 <summary>🔍 More about me</summary>
 <br>
 
-I'm a passionate developer with over -2 years of experience in Computer vision. 
+I'm a passionate developer with over 0.5 years of experience in Computer vision. 
 
 </details>
 
